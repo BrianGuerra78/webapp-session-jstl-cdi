@@ -1,0 +1,9 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(‹•‡È
+k
+java:S1128"IRemove this unused import 'jakarta.enterprise.context.ApplicationScoped'.(±ÇŸëøÿÿÿÿ8Ş³¡ÇÏ0
+€
+java:S1128"eRemove this unused import 'org.bguerra.apiserclet.webapp.headers.repositories.UsuarioRepositoryImpl'.(ÀÑ²¾ûÿÿÿÿ
+F
+java:S1128
+"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ

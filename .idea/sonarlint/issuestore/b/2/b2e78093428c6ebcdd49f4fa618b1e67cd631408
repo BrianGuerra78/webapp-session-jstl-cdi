@@ -1,0 +1,7 @@
+
+
+java:S1130"uRemove the declaration of thrown exception 'javax.naming.NamingException', as it cannot be thrown from method's body.(¹‰’ïıÿÿÿÿ
+Q	java:S125 "<This block of commented-out lines of code should be removed.(ÖÅ©‘
+N
+java:S1128
+"1Remove this unused import 'jakarta.inject.Named'.(¡†Š8íğ°ÀÏ0

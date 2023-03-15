@@ -1,0 +1,9 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ø›èµ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¢ŠœÔ
+Q	java:S125%"<This block of commented-out lines of code should be removed.(éôÃ´
+]	java:S125,"<This block of commented-out lines of code should be removed.(Óƒ¦Ÿşÿÿÿÿ8¥éÕÏ0
+Y
+java:S1128"=Remove this unused import 'jakarta.servlet.http.HttpSession'.(Çê°8¯©ÖÏ0
+l
+java:S1128"ORemove this unused import 'org.bguerra.apiserclet.webapp.headers.models.Carro'.(®³£8¯©ÖÏ0

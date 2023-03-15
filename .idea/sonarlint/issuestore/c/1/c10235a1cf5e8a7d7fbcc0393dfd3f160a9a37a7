@@ -1,0 +1,13 @@
+
+\
+java:S11923"FDefine a constant instead of duplicating this literal "title" 4 times.(Ëè­„
+F
+java:S1948")Make "service" transient or serializable.(œÇ¨Ñ8¬®½ÀÏ0
+]	java:S125!"<This block of commented-out lines of code should be removed.(˜¾Ãúüÿÿÿÿ8Ş××ŸÏ0
+]	java:S1259"<This block of commented-out lines of code should be removed.(˜¾Ãúüÿÿÿÿ8ƒñØŸÏ0
+N
+java:S1128"1Remove this unused import 'jakarta.inject.Named'.(¡†Š8Æ®½ÀÏ0
+€
+java:S1128"cRemove this unused import 'org.bguerra.apiserclet.webapp.headers.services.ProductoServiceJdbcImpl'.(©ÄÈÚ8Æ®½ÀÏ0
+M
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8Æ®½ÀÏ0

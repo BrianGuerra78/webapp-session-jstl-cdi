@@ -1,0 +1,20 @@
+
+`	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+F
+java:S1948")Make "service" transient or serializable.(œÇ¨Ñ8Èõ¸ÀÏ0
+H
+java:S4925#"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ
+]	java:S125'"<This block of commented-out lines of code should be removed.(˜¾Ãúüÿÿÿÿ8ñ¨áŸÏ0
+V	java:S125+"<This block of commented-out lines of code should be removed.(Ùêì½ÿÿÿÿÿ
+P	java:S125/"<This block of commented-out lines of code should be removed.(òm
+N
+java:S1128"1Remove this unused import 'jakarta.inject.Named'.(¡†Š8Şõ¸ÀÏ0
+Y
+java:S1128
+"=Remove this unused import 'jakarta.servlet.http.HttpSession'.(Çê°8àõ¸ÀÏ0
+|
+java:S1128"_Remove this unused import 'org.bguerra.apiserclet.webapp.headers.services.ProductoServiceImpl'.(ìÅ•á8âõ¸ÀÏ0
+€
+java:S1128"cRemove this unused import 'org.bguerra.apiserclet.webapp.headers.services.ProductoServiceJdbcImpl'.(©ÄÈÚ8ãõ¸ÀÏ0
+M
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8ãõ¸ÀÏ0
